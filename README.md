@@ -1,4 +1,5 @@
 # :hotel: Hotel MCP Server
+:link: Tutorial: https://www.postman.com/kaguyaxyxy-5ed2e41c/notebook/xLYmRxJ616ov/build-your-ai-agent-for-searching-and-booking-accomodations
 ## :paperclip: Prerequisites
 - Node.js (v20+)
 - npm
